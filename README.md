@@ -18,6 +18,6 @@
 </p> -->
 
 <p align="center">
-  <img alt="Profile Stats" src="https://github-readme-stats.vercel.app/api?username=thegreatrazz&count_private=true&show_icons=true&hide_title=true&theme=dracula&hide_border=true" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegreatrazz&layout=compact&langs_count=6&theme=dracula&hide_border=true" />
+  <img alt="Profile Stats" src="https://github-readme-stats.vercel.app/api?username=ngomezcn/&count_private=true&show_icons=true&hide_title=true&theme=dracula&hide_border=true" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngomezcn/&layout=compact&langs_count=6&theme=dracula&hide_border=true" />
 </p>
