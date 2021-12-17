@@ -1,8 +1,6 @@
 <h3 align="center">A passionate developer</h3>
-- 🌱 I’m currently learning **React**
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
 
-<h3 align="center">My skilled and favorite languages:</h3>
+<h3 align="left">My skilled and favorite languages:</h3>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
