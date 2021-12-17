@@ -2,6 +2,7 @@
 
 <h3 align="left">Current:</h3>
 - 🔭 I’m currently working on [Fullstack Template](https://github.com/ngomezcn/application)
+
 - 🌱 I’m currently learning **Django and React**
 
 <h3 align="center">My favorite Languages and Tools:</h3>
